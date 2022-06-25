@@ -24,7 +24,7 @@
 
 ## 📥 || Installation
 
-To install UltraX package you need:
+To install Mocy package you need:
 
 - You need to install [**Node.js**](https://www.nodejs.org/en/download/).
 
