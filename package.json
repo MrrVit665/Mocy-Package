@@ -1,0 +1,31 @@
+{
+  "name": "mocy",
+  "version": "1.0.0",
+  "description": "Mocy Package is a unique package that allows you to create cool things using simple functions and make it faster, for example there is an invite logger, discord buttons paginator, etc...",
+  "main": "index.js",
+  "scripts": {
+    "test": "cd ExampleBot && npm i ../ && node .",
+    "docs": "node_modules/.bin/jsdoc --configure .jsdoc.json --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrrVit665/Mocy-Package.git"
+  },
+  "keywords": [
+    "discord.js",
+    "discord-buttons",
+    "mocy",
+    "paginator",
+    "welcome-canvas",
+    "invite-logger",
+    "pagination",
+    "canvas",
+    "bin"
+  ],
+  "author": "JohnDavid",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/MrrVit665/Mocy-Package/issues"
+  },
+  "homepage": "https://github.com/MrrVit665/Mocy-Package#readme"
+}
