@@ -142,7 +142,7 @@ console.log('Here i binned the code ' + bin)
 }
 ```
 > bin(String)
-`ultrax.bin(args.join(' '), true/false)` if its true that mean the bin is editable, else if its false that means no one can edit it.
+`mocy.bin(args.join(' '), true/false)` if its true that mean the bin is editable, else if its false that means no one can edit it.
 
 ## Button Paginator
 
