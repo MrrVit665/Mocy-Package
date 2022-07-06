@@ -16,7 +16,7 @@ module.exports = async () => {
         console.log('\x1b[36m' + '|             Run "npm i mocy@latest"           |')
         console.log('\x1b[36m' + '|                    to update!                   |')
         console.log('\x1b[37m' + `|          View the full changelog here:          |`)
-        console.log('\x1b[31m' + '|       https://www.npmjs.com/package/ultrax      |')
+        console.log('\x1b[31m' + '|       https://www.npmjs.com/package/mocy      |')
         console.log('\x1b[32m' + '---------------------------------------------------\x1b[37m')
         console.log('\n\n')
     }
