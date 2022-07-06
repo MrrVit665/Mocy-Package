@@ -1,6 +1,6 @@
 {
   "name": "mocy",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Mocy Package is a unique package that allows you to create cool things using simple functions and make it faster, for example there is an invite logger, discord buttons paginator, etc...",
   "main": "index.js",
   "scripts": {
